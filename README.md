@@ -1,3 +1,5 @@
+## 👋 Hi there, I'm Ameh Owoicholoci Anthony
+
 # 💼 About Me:
 🔭 I’m currently working on  <br>
 Production-focused AI systems for medical diagnosis (brain tumor & cancer detection),  <br>
