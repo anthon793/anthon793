@@ -9,7 +9,7 @@ To build **scalable, production-ready software and explainable AI systems**, sea
 
 ---
 
-## 💻 Tech Stack (Core)
+## 💻 Tech Stack 
 **Languages & Backend:** Python · PHP · JavaScript · Django · FastAPI · Laravel  
 **Frontend:** React · Tailwind CSS  
 **Databases:** MySQL · PostgreSQL · Redis  
