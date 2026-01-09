@@ -10,12 +10,12 @@ To build **scalable, production-ready software and explainable AI systems**, sea
 ---
 
 ## 💻 Tech Stack 
-**Languages & Backend:** Python · PHP · JavaScript · Django · FastAPI · Laravel  
-**Frontend:** React · Tailwind CSS  
-**Databases:** MySQL · PostgreSQL · Redis  
-**AI / ML:** PyTorch · scikit-learn · Computer Vision  
-**DevOps:** Docker · Linux  
-**Hardware / IoT:** Arduino · RFID · ESP32 · Raspberry Pi  
+**Languages & Backend:** Python, PHP, JavaScript , Django , FastAPI , Laravel  
+**Frontend:** React , Tailwind CSS  
+**Databases:** MySQL , PostgreSQL , Redis  
+**AI / ML:** PyTorch , scikit-learn , Computer Vision  
+**DevOps:** Docker , Linux  
+**Hardware / IoT:** Arduino , RFID , ESP32 , Raspberry Pi  
 
 ---
 
